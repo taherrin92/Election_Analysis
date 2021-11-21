@@ -31,6 +31,3 @@ election_results = (
      f"\nElection Results\n"
      f"Percent of eligible voters {All_Voters_Percent:,.1f}\n
 ```
-
-- If the eligible voters by county wanted to be looked at, the simplest way to do it would be to add a fourth column to the .csv titled "Eligible Voters" that contained the eligible voters in said county for every row. 
-The original would look like this: 
